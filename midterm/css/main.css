@@ -39,6 +39,9 @@ img{
 
 div{
   padding-left: 20px;
+  padding-top: 0 auto;
+  padding-bottom: 5px;
+  padding-right: 0 auto;
 }
 
 
