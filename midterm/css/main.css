@@ -17,6 +17,10 @@
     transform: translate(-50%, 180%);
   }
 
+  h1{
+    padding-top: 3px;
+  }
+
   body{
     background-color: aquamarine;
   }
